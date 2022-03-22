@@ -1,0 +1,17 @@
+{
+  "name": "fifa-teams",
+  "version": "1.0.4",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatsmaki/fifa-teams.git"
+  }
+}
